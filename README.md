@@ -1,4 +1,4 @@
-# maze_simulator
+# raycast_basic
 pretty bad project for my school... I will remake it someday lol
 
 ![alt text](https://raw.githubusercontent.com/theo-walton/raycast_basic/master/wolfim)
